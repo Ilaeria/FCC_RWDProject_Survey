@@ -1,0 +1,26 @@
+/*Color palette
+Primary: #c2185b
+P light: #fa5788
+P dark: #8c0032
+Secondary: #26c6da
+S light: #6ff9ff
+S dark: #0095a8
+P text: #ffffff
+S text: #212121
+contrast background: #e1e2e1
+background: #f5f5f6*/
+
+#main {
+    text-align: center;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f5f5f6;
+    min-height: 100vh;
+    height: 100%;
+}
+
+#title {
+    background-color: #c2185b;
+    height: 80px;
+    border-top: 30px solid #8c0032;
+    color: #ffffff;
+}
