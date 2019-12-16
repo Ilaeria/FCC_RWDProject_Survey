@@ -10,7 +10,7 @@ S text: #212121
 contrast background: #e1e2e1
 background: #f5f5f6*/
 
-#main {
+main {
     text-align: center;
     font-family: Roboto, Helvetica, Arial, sans-serif;
     background-color: #f5f5f6;
