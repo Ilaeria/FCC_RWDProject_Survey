@@ -20,7 +20,46 @@ main {
 
 #title {
     background-color: #c2185b;
-    height: 80px;
+    height: 60px;
     border-top: 30px solid #8c0032;
     color: #ffffff;
+    padding: 20px 0px 0px;
+    margin: 0px;
+}
+
+#description {
+    padding: 20px 0px;
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+#survey-form {
+    width: 60vw;
+    display: block;
+    margin: 20px auto;
+    background-color: rgba(250,87,136,0.2);
+    padding: 20px;
+    text-align: left;
+}
+
+.field-description {
+    margin: 0px;
+}
+
+.form-group {
+    padding: 0px 0px 10px;
+}
+
+fieldset {
+    width: 50%;
+    padding-right: 0px;
+}
+
+legend {
+    padding: 10px;
+}
+
+textarea {
+    width: 50%;
+    padding-right: 12px;
 }
